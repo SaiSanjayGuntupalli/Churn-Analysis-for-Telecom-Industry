@@ -1,1 +1,1 @@
-# Churn-Analysis-for-Telecom-Industry
+# Telecom-Industry-Churn-Analysis
