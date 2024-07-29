@@ -43,7 +43,7 @@ To view and interact with the Power BI report:
 1. Clone this repository:
    ```bash
    git clone https://github.com/SaiSanjayGuntupalli/telecom-churn-analysis.git
-2. Open the Telecom_Churn_Analysis.pbix file in Power BI Desktop.
+2. Open the Telecom Industry Churn Analysis.pbix file in Power BI Desktop.
 3. Explore the report and interact with the visualizations.
 
 ## Conclusion
